@@ -1,0 +1,2 @@
+- svgCircle : writes the svg circle element with random radius in the resources/svgHere.html
+  - clean : clean makes the .html clean
